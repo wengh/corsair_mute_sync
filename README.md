@@ -31,5 +31,4 @@ Arguments:
 
   -c
     do not call command in the initial poll
-)";
 ```
